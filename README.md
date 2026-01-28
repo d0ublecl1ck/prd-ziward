@@ -14,9 +14,9 @@ Use this skill when a user wants to:
 
 1. Ask sharp, sequential questions using a Socratic approach.
 2. Cover one category at a time; wait for answers before moving on.
-3. After roughly 8-15 questions (or when clarity is sufficient), ask:
-   "I have enough context - ready to draft PRD?"
-4. On approval, draft a full professional PRD in Markdown.
+3. After roughly 8-15 questions (or when clarity is sufficient), ask whether to extend discovery into entity modeling, product naming, and/or page/UI design (optional).
+4. Then ask: "I have enough context - ready to draft PRD?"
+5. On approval, draft a full professional PRD in Markdown.
 
 ## Question categories
 
@@ -28,6 +28,8 @@ Use this skill when a user wants to:
 - Success definition and metrics
 - Constraints, tech debt, timelines
 - Existing research and competitors
+- Domain entities and relationships (optional, after core discovery)
+- Product naming and page/UI design (optional, after core discovery)
 
 ## Output requirements
 
